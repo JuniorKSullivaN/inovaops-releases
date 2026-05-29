@@ -1,2 +1,2 @@
 # inovaops-releases
-Release 3.1.0 do InovaOps.
+Repositório para lançamentos de atuaizações do InovaOps
