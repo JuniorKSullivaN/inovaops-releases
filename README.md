@@ -1,2 +1,2 @@
 # inovaops-releases
-Repositório para lançamentos de atuaizações do InovaOps
+Repositório para lançamentos de atualizações do InovaOps
